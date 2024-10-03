@@ -1,4 +1,4 @@
-# AlgoVest.online
+# Algovest.online
 
 AlgoVest.online is an algorithmic trading platform designed to help investors and traders make smarter, data-driven decisions through advanced investment strategies. Our platform utilizes cutting-edge AI and machine learning algorithms to provide insights, technical analysis, and automated trading signals, making it easier for traders to navigate the stock market.
 
